@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8gLAZ3CgxX1PX0qOihvzicSdc+QeZlp9T5f6bmB00+rFqFHfHz4+A+yH7MDD+jRNQpduJGTokmYIlltd0pTHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Applications\\ELK\\ELKExample\\ELKWebApp\\ELKWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dexta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

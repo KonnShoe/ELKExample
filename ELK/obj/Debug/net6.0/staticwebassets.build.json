@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8TGEORAwDR3T93GRf2wuLrg5DdzWWGrTrX2NNShwMb0=",
+  "Source": "ELK",
+  "BasePath": "_content/ELK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
